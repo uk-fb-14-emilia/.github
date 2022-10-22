@@ -1,12 +1,5 @@
-## Hi there 👋
+EMILIA – Entwicklung eines pandemieresistenten Öffentlichen Personennahverkehrs HINTERGRUND UND ZIEL
 
-<!--
+Die Covid-19-Pandemie hat weltweit bereits unzählige Menschenleben gekostet und nur schwer absehbare langfristige Auswirkungen. Auch das Mobilitätsverhalten der Bevölkerung hat sich verändert, was den öffentlichen Verkehr (ÖV) und die Bemühungen um eine nachhaltige Transformation des Verkehrssystems hart trifft. Ziel des Projektes ist es daher, wirksame Handlungsempfehlungen für Verkehrsunternehmen und Aufgabenträger zu entwickeln, deren Umsetzung einerseits die Gesundheitsrisiken bei der ÖPNV-Nutzung minimiert und das Vertrauen der Kunden in den ÖPNV erhöht und andererseits die Folgewirkungen einer Pandemie bei der zukünftigen Gestaltung des ÖPNV berücksichtigt. Das bedeutet der ÖPNV soll insgesamt resistenter gegenüber Pandemien und Epidemien werden.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) fördert das Forschungsprojekt EMILIA für die nächsten drei Jahre mit rund 1,3 Mio. Euro.
