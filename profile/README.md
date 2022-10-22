@@ -1,4 +1,6 @@
-EMILIA – Entwicklung eines pandemieresistenten Öffentlichen Personennahverkehrs HINTERGRUND UND ZIEL
+EMILIA – Entwicklung eines pandemieresistenten Öffentlichen Personennahverkehrs 
+
+**HINTERGRUND UND ZIEL**
 
 Die Covid-19-Pandemie hat weltweit bereits unzählige Menschenleben gekostet und nur schwer absehbare langfristige Auswirkungen. Auch das Mobilitätsverhalten der Bevölkerung hat sich verändert, was den öffentlichen Verkehr (ÖV) und die Bemühungen um eine nachhaltige Transformation des Verkehrssystems hart trifft. Ziel des Projektes ist es daher, wirksame Handlungsempfehlungen für Verkehrsunternehmen und Aufgabenträger zu entwickeln, deren Umsetzung einerseits die Gesundheitsrisiken bei der ÖPNV-Nutzung minimiert und das Vertrauen der Kunden in den ÖPNV erhöht und andererseits die Folgewirkungen einer Pandemie bei der zukünftigen Gestaltung des ÖPNV berücksichtigt. Das bedeutet der ÖPNV soll insgesamt resistenter gegenüber Pandemien und Epidemien werden.
 
