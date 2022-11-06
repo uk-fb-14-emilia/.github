@@ -1,6 +1,6 @@
 # EMILIA
 
-### Entwicklung eines pandemieresistenten Öffentlichen Personennahverkehrs 
+## Entwicklung eines pandemieresistenten Öffentlichen Personennahverkehrs 
 
 **HINTERGRUND UND ZIEL**
 
